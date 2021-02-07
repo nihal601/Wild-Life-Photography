@@ -1,0 +1,23 @@
+# Built binaries
+*.o
+Capture-app
+
+# vscode
+.vscode
+
+# TensorRT Engines
+*/*/*/*.engine
+*.engine
+
+# .so files
+*.so
+
+# Input sources
+inputsources.txt
+
+# Extra files
+.Makefile.swp
+.cproject
+.metadata/
+.project
+RemoteSystemTempFiles/
